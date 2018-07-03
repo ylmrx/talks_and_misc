@@ -187,7 +187,7 @@ You actually want :
 curl -v https://www.example.com > /dev/null
 ```
 
-`Show your 1337-skills, omg. so SALT-ish, /dev pseudo-file and stream redirection 😻`
+`Show your 1337-skills, omg. OMG!, /dev pseudo-file and stream redirection 😻`
 
 ---
 
